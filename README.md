@@ -1,7 +1,7 @@
 # tugas2-urlParameter
 tugas 2 express.js ALKADEMI
-![Berikut adalah hasil dari methode GET](hasil get.png)
-![Berikut adalah hasil dari methode POST](hasil post.png)
+![Berikut adalah hasil dari methode GET](get.png)
+![Berikut adalah hasil dari methode POST](post.png)
 
 # Cara akses
 untuk mengakses methode GET 
